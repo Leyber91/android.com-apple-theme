@@ -877,6 +877,7 @@ figure {
     width: 50%;
     object-fit: cover;
     max-height: 538px;
+    
 }
 
 .h1-e{
@@ -936,6 +937,12 @@ margin-top: 20px;
     font-size: 16px;
     margin: 0 5px;
     text-align: center;
+    font-size: 17px;
+    line-height: 1.47059;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    text-align: center;
+    padding: 20px 40px 20px;
     }
 
 .icon-e{
@@ -952,6 +959,8 @@ margin-top: 20px;
 
 .a-e {
     text-decoration: none;
+    text-align: center;
+    align-items: center;
 
 }
 
@@ -987,5 +996,17 @@ background-color: white;
     justify-content: center;
     contain: fii;
     text-align: center;
-    
+}
+
+#img-s4{
+    max-height: 538px;
+}    
+
+.col-e-s4{
+    object-fit: contain;
+
+}
+
+#last-button{
+    align-items: center;
 }
