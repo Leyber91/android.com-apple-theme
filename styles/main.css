@@ -843,3 +843,48 @@ figure {
     text-align: left;
     margin: 16px 19px 0px 10px;
 }
+
+/* ENTERPIRSE STYLE */
+#section-e-1 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-top: 44px;
+    background-color: black;
+    color: var(--header-letter-white);
+    vertical-align: 50%;
+}
+
+#content-e {
+    font-size: 40px;
+    margin: 0px 5px;
+    font-weight: bold;
+
+
+}
+#s1-e-img {
+   ;
+}
+
+.row-e {
+    display: flex; /* equal height of the children */
+  }
+  
+.col-e {
+    flex: 1; /* additionally, equal width */
+    text-align: center;
+    width: 50%;
+    object-fit: cover;
+    max-height: 538px;
+    vertical-align: middle;
+}
+
+.h1-e{
+font-size: 30px;
+margin: 50px 10px;
+}
+
+.h2-e{
+font-size: 40px;
+margin-bottom: 20px;
+    }
